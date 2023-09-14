@@ -1,7 +1,7 @@
 template:
   path: project-member.yaml
 entries:
-  - project: marketings
+  - project: marketing
     env: dev
     username: testuser1
     access: RW
